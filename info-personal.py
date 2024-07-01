@@ -1,0 +1,5 @@
+nombre = input("cual es tu nombre ?")
+apellido = input("cual es tu apellido ?")
+edad = input("cual es tu edad ?")
+ssede = input("cual es tu sede ?")
+print(" hola " + nombre, apellido + " ,tu edad es "+ edad +" y tu sede es " + ssede )
